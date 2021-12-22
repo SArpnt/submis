@@ -2,7 +2,8 @@
 
 only works on notitg because jank
 
-simple theme intended to streamline actually playing the game (and some other stuff)
+simple theme intended to streamline actually playing the game
+also has anything that i want because this git repository is literally just in my nitg themes folder
 title is based on the word "submissive" since the theme gets rid of in-your-face elements, annoyances, and many unneccecary features
 
 does many things:
@@ -10,3 +11,4 @@ starts in main menu
 removes some unneccecary elements that get in the way such as annoying branding
 improve some menus (debatable)
 improved song wheel
+adds scatter plot (currently terrible)
